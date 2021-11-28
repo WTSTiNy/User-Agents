@@ -78,7 +78,7 @@ Android - `Mozilla/5.0 (Linux; Android 10; SM-G965F) AppleWebKit/537.36 (KHTML, 
 Android - `Mozilla/5.0 (Linux; Android 10; SM-G960U) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.157 Mobile Safari/537.36 Brave/74`
 
 
-Android - `Mozilla/5.0 (Linux; Android 10; SM-G960F) AppleWebKit/537.36 (KHTML; like Gecko) Chrome/74.0.3729.157 Mobile Safari/537.36 Brave/74
+Android - `Mozilla/5.0 (Linux; Android 10; SM-G960F) AppleWebKit/537.36 (KHTML; like Gecko) Chrome/74.0.3729.157 Mobile Safari/537.36 Brave/74`
 
 
 
